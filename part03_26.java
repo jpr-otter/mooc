@@ -23,3 +23,7 @@ public class LineByLine {
 
 // The output is as desired, but the testing module does not accept this solution. dont know why, gonna look up other peoples solutions.
 // ???
+
+
+// classic! i didnt read properly. the script should stop when there is no input instead i thought it should stop if the input is "halted" simply because
+// is was the last word in the example outputs for the script... maybe this is why it s not accepted.
